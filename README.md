@@ -1,2 +1,2 @@
 ## Sidewalk Chalk
-An open source neighborhood project
+An open source neighborhood project to raise awareness
